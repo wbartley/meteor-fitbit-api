@@ -1,0 +1,10 @@
+{
+  "name": "fitbit-api",
+  "description": "Fitbit API wrapper using OAuth1Binding of Meteor Fitbit Service",
+  "homepage": "https://github.com/wbartley/meteor-fitbit-api",
+  "author": "William Bartley",
+  "version": "0.1.0",
+  "git": "https://github.com/wbartley/meteor-fitbit-api.git",
+  "packages": {
+  }
+}
