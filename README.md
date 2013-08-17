@@ -19,19 +19,12 @@ To update an existing project:
 > mrt update fitbit-api
 ```
 
-## Run the Example
-```bash
-> git clone https://github.com/wbartley/meteor-fitbit-example.git
-> cd meteor-fitbit-example/
-> mrt
-```
-
 ## Get Started
 
-* See the [Meteor Fitbit Example](https://github.com/wbartley/meteor-fitbit-example.git meteor-fitbit-example)
+See the [Meteor Fitbit Example](https://github.com/wbartley/meteor-fitbit-example.git meteor-fitbit-example)
 
 
 
 ### Credits
 
-* Code is based upon [Meteor's Twitter API Package](https://github.com/Sewdn/meteor-twitter-api)
+Code is based upon [Meteor's Twitter API Package](https://github.com/Sewdn/meteor-twitter-api)
