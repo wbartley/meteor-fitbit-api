@@ -21,7 +21,7 @@ To update an existing project:
 
 ## Get Started
 
-See the [Meteor Fitbit Example](https://github.com/wbartley/meteor-fitbit-example.git meteor-fitbit-example)
+Coming Soon
 
 
 
