@@ -3,9 +3,9 @@ Meteor Fitbit API Package
 
 meteor-fitbit-api is a simple package to wrap the Fitbit API using Meteorite's Fitbit Service OAuth1Binding class. 
 
-Latest Version: **0.1.3**
+Latest Version: **0.1.1**
 
-Previous Version: 0.1.2
+Previous Version: 0.1.0
 
 Works on Meteor 0.6.6.2
 
