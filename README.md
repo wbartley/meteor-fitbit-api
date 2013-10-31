@@ -7,6 +7,8 @@ Latest Version: **0.1.3**
 
 Previous Version: 0.1.2
 
+Works on Meteor 0.6.5
+
 ## Install
 
 To install in a new project:
