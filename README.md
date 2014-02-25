@@ -7,7 +7,7 @@ Latest Version: **0.1.1**
 
 Previous Version: 0.1.0
 
-Works on Meteor 0.6.6.2
+Works on Meteor 0.7.1.1
 
 ## Install
 
